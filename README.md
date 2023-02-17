@@ -32,4 +32,4 @@ A Magento 2 extension to support international of telephone validation for all c
 ![Screenshots](https://github.com/nathaodedara/magento2-international-telephone-validation/blob/main/screenshots/magento-2-international-telephone-validation-with-country-flags-checkout-shipping-address-new.png?raw=true)
 ![Screenshots](https://github.com/nathaodedara/magento2-international-telephone-validation/blob/main/screenshots/magento-2-international-telephone-validation-with-country-flags-contact-us-page.png?raw=true)
 ![Screenshots](https://github.com/nathaodedara/magento2-international-telephone-validation/blob/main/screenshots/magento-2-international-telephone-validation-with-country-flags-customer-new-address.png?raw=true)
-![Screenshots](https://github.com/nathaodedara/magento2-international-telephone-validation/blob/main/screenshots/magento-2-international-telephone-validation-with-country-flags-full-configuration.png?raw=true)
+![Screenshots Configuration](https://github.com/nathaodedara/magento2-international-telephone-validation/blob/main/screenshots/magento-2-international-telephone-validation-with-country-flags-full-configuration.png?raw=true)
