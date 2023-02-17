@@ -3,14 +3,14 @@
 ![Main Image | Thumbnail | Magento 2](https://github.com/nathaodedara/magento2-international-telephone-validation/blob/main/screenshots/how-to-add-international-telephone-validation-with-country-flag-magento-2.jpg?raw=true)
 
 ## Main Functionalities
-A Magento 2 extension to support international of telephone validation for all countries and also add country flag to the telephone field. Automatically detect user's country and set as selected
+A Magento 2 extension to support international telephone validation for all countries and also add a country flag to the telephone field. Automatically detect the user's country and set it as selected
 
-- Add functionality to allow user to select their country for telephone input
-- This extension adds internation validation for all country wise list with flags on all telephone fields available in Magento, Customer Address Forms, Checkout Address Forms and on Contact Us Page as well.
+- Add functionality to allow a user to select their country for telephone input
+- This extension adds international validation for all country-wise lists with flags on all telephone fields available in Magento, Customer Address Forms, Checkout Address Forms and on Contact Us Page as well.
 - Automatically validates the given telephone number based on the selected country
-- Gives nice and easy look for the users
-- Site owner can also use backend configurations options to tweak or change the settings of the telephone input such as if they want to display country code (ex. +91) or not.
-- It can also detect a users country based on their IP address and sets it by default automatically.
+- Gives a nice and easy look for the users
+- Site owners can also use backend configuration options to tweak or change the settings of the telephone input such as if they want to display country code (ex. +91) or not.
+- It can also detect a user's country based on their IP address and sets it by default automatically.
 
 ## Installation
 \* = in production please use the `--keep-generated` option
