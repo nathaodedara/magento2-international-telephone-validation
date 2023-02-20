@@ -1,4 +1,6 @@
-# Magento 2 International Telephone Validation with Country flag
+## <ins>This extension is no longer available for FREE, you can purchase it from Magento Marketplace [CLICK HERE](https://marketplace.magento.com/ananta-module-telephonevalidation.html "International Telephone Validation with Country flag For Magento 2 - Magento Marketplace").
+
+# International Telephone Validation with Country flag For Magento 2
 
 ![Main Image | Thumbnail | Magento 2](https://github.com/nathaodedara/magento2-international-telephone-validation/blob/main/screenshots/how-to-add-international-telephone-validation-with-country-flag-magento-2.jpg?raw=true)
 
